@@ -1,5 +1,7 @@
 <p>
-  👋 I'm Mahitab Ayman, a junior Computer Science student at Nile University, Egypt. I have experience in AI, Machine Learning, NLP,flutter and IoT, with proficiency in Python, C++, HTML, Java, CSS, and Node.js. I've interned at Samsung Innovation Campus and DOST India, and worked as a Junior Teaching Assistant and Research Assistant at Nile University. I'm a certified AI and Google Cloud professional and have been a trainee in AI, Flutter, and ML. I've achieved notable successes in various hackathons and competitions and looking forword for more.
+  👋 I'm a junior Computer Science student at Nile University, Egypt, with expertise in AI, Machine Learning, Natural Language Processing (NLP), IoT, and Flutter. Currently, I work as a Software Engineer for AI Training Data at Outlier AI (in collaboration with G2I), where I evaluate AI-generated code, solve complex coding challenges, and contribute to the development of advanced AI models.
+
+I have experience as a Junior Teaching Assistant, Research Assistant, and intern at Samsung Innovation Campus, with proficiency in Python, C++, Java, HTML, CSS, and Node.js. Passionate about learning and innovation, I have participated in and won various hackathons and competitions.
 </p>
 
 <h3>📫 Reach me at:</h3>
